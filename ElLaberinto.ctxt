@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ElLaberinto
+comment1.params=n\ maze
+comment1.target=boolean\ puedoSalir(int,\ java.lang.String[])
+comment2.params=lab\ n\ x\ y\ xR\ yR\ res
+comment2.target=boolean\ puedoSalir(char[][],\ int,\ int,\ int,\ int,\ int,\ boolean)
+comment3.params=x\ y\ n
+comment3.target=boolean\ valida(int,\ int,\ int)
+comment4.params=maze\ n\ aux1\ aux2\ x
+comment4.target=int\ encontrarX(java.lang.String[],\ int,\ int,\ int,\ char)
+comment5.params=maze\ n\ aux1\ aux2\ x
+comment5.target=int\ encontrarY(java.lang.String[],\ int,\ int,\ int,\ char)
+comment6.params=maze\ n\ aux1\ aux2\ lab
+comment6.target=char[][]\ convertir(java.lang.String[],\ int,\ int,\ int,\ char[][])
+numComments=7
